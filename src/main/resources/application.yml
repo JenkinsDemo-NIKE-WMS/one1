@@ -1,4 +1,4 @@
-servere:
+server:
   port: 8084
 management:
   endpoints:
